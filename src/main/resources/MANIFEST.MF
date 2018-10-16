@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.diwinet.init.Init
+Created-By: V1.0.0(DIWINET JIANGXING[2016-6-15])
+Class-Path: dw-das-kafka-wifi-1.0-jar-with-dependencies.jar
